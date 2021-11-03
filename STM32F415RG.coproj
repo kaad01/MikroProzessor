@@ -89,8 +89,8 @@
     <File name="cmsis/core_cmFunc.h" path="cmsis/core_cmFunc.h" type="1"/>
     <File name="cmsis_lib/source/stm32f4xx_hash.c" path="cmsis_lib/source/stm32f4xx_hash.c" type="1"/>
     <File name="MPP/CC3100/CC3100_EventHandler.h" path="MPP/CC3100/CC3100_EventHandler.h" type="1"/>
-    <File name="CoOS/portable/arch.h" path="CoOS/portable/arch.h" type="1"/>
     <File name="MPP/BOARD/rtc.h" path="MPP/BOARD/rtc.h" type="1"/>
+    <File name="CoOS/portable/arch.h" path="CoOS/portable/arch.h" type="1"/>
     <File name="aufgabe.h" path="aufgabe.h" type="1"/>
     <File name="CoOS/portable/GCC" path="" type="2"/>
     <File name="MPP/MQTT/src/MQTTFormat.c" path="MPP/MQTT/src/MQTTFormat.c" type="1"/>
@@ -193,9 +193,9 @@
     <File name="CoOS" path="" type="2"/>
     <File name="MPP/BME280/bme280_driver.h" path="MPP/BME280/bme280_driver.h" type="1"/>
     <File name="MPP/CC3100/simplelink_extlib" path="" type="2"/>
-    <File name="MPP/BOARD/beeper.c" path="MPP/BOARD/beeper.c" type="1"/>
     <File name="MPP/MQTT/src/MQTTUnsubscribeServer.c" path="MPP/MQTT/src/MQTTUnsubscribeServer.c" type="1"/>
     <File name="cmsis_lib/include/stm32f4xx_gpio.h" path="cmsis_lib/include/stm32f4xx_gpio.h" type="1"/>
+    <File name="MPP/BOARD/beeper.c" path="MPP/BOARD/beeper.c" type="1"/>
     <File name="MPP/BOARD/init.c" path="MPP/BOARD/init.c" type="1"/>
     <File name="MPP/CC3100/simplelink_extlib/flc" path="" type="2"/>
     <File name="MPP/MQTT/inc/MQTTConnect.h" path="MPP/MQTT/inc/MQTTConnect.h" type="1"/>
