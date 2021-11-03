@@ -325,8 +325,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\MPU9250.o
  .debug_ranges  0x00000000       0x18 ..\obj\MPU9250.o
- .debug_line    0x00000000      0x1da ..\obj\MPU9250.o
- .debug_str     0x00000000      0x511 ..\obj\MPU9250.o
+ .debug_line    0x00000000      0x1b8 ..\obj\MPU9250.o
+ .debug_str     0x00000000      0x4ef ..\obj\MPU9250.o
  .comment       0x00000000       0x71 ..\obj\MPU9250.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MPU9250.o
@@ -347,8 +347,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 ..\obj\kernelHeap.o
  .debug_ranges  0x00000000       0x28 ..\obj\kernelHeap.o
- .debug_line    0x00000000      0x18b ..\obj\kernelHeap.o
- .debug_str     0x00000000      0x24f ..\obj\kernelHeap.o
+ .debug_line    0x00000000      0x17a ..\obj\kernelHeap.o
+ .debug_str     0x00000000      0x23e ..\obj\kernelHeap.o
  .comment       0x00000000       0x71 ..\obj\kernelHeap.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\kernelHeap.o
@@ -421,8 +421,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x108 ..\obj\stm32f4xx_sdio.o
  .debug_ranges  0x00000000       0xf8 ..\obj\stm32f4xx_sdio.o
- .debug_line    0x00000000      0x423 ..\obj\stm32f4xx_sdio.o
- .debug_str     0x00000000      0x657 ..\obj\stm32f4xx_sdio.o
+ .debug_line    0x00000000      0x3df ..\obj\stm32f4xx_sdio.o
+ .debug_str     0x00000000      0x646 ..\obj\stm32f4xx_sdio.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_sdio.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_sdio.o
@@ -493,8 +493,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 ..\obj\stm32f4xx_cryp_aes.o
  .debug_ranges  0x00000000       0x20 ..\obj\stm32f4xx_cryp_aes.o
- .debug_line    0x00000000      0x69f ..\obj\stm32f4xx_cryp_aes.o
- .debug_str     0x00000000      0x3fe ..\obj\stm32f4xx_cryp_aes.o
+ .debug_line    0x00000000      0x65b ..\obj\stm32f4xx_cryp_aes.o
+ .debug_str     0x00000000      0x3ed ..\obj\stm32f4xx_cryp_aes.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_cryp_aes.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_cryp_aes.o
@@ -541,8 +541,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa0 ..\obj\stm32f4xx_hash.o
  .debug_ranges  0x00000000       0x90 ..\obj\stm32f4xx_hash.o
- .debug_line    0x00000000      0x34e ..\obj\stm32f4xx_hash.o
- .debug_str     0x00000000      0x449 ..\obj\stm32f4xx_hash.o
+ .debug_line    0x00000000      0x30a ..\obj\stm32f4xx_hash.o
+ .debug_str     0x00000000      0x438 ..\obj\stm32f4xx_hash.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_hash.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_hash.o
@@ -618,8 +618,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\stm32f4xx_hash_sha1.o
  .debug_ranges  0x00000000       0x18 ..\obj\stm32f4xx_hash_sha1.o
- .debug_line    0x00000000      0x360 ..\obj\stm32f4xx_hash_sha1.o
- .debug_str     0x00000000      0x30e ..\obj\stm32f4xx_hash_sha1.o
+ .debug_line    0x00000000      0x31c ..\obj\stm32f4xx_hash_sha1.o
+ .debug_str     0x00000000      0x2fd ..\obj\stm32f4xx_hash_sha1.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_hash_sha1.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_hash_sha1.o
@@ -650,8 +650,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\utility.o
  .debug_ranges  0x00000000       0x18 ..\obj\utility.o
- .debug_line    0x00000000       0x93 ..\obj\utility.o
- .debug_str     0x00000000      0x18c ..\obj\utility.o
+ .debug_line    0x00000000       0x82 ..\obj\utility.o
+ .debug_str     0x00000000      0x17b ..\obj\utility.o
  .comment       0x00000000       0x71 ..\obj\utility.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\utility.o
@@ -868,8 +868,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xe0 ..\obj\stm32f4xx_can.o
  .debug_ranges  0x00000000       0xd0 ..\obj\stm32f4xx_can.o
- .debug_line    0x00000000      0x54b ..\obj\stm32f4xx_can.o
- .debug_str     0x00000000      0x755 ..\obj\stm32f4xx_can.o
+ .debug_line    0x00000000      0x507 ..\obj\stm32f4xx_can.o
+ .debug_str     0x00000000      0x744 ..\obj\stm32f4xx_can.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_can.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_can.o
@@ -923,8 +923,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\stm32f4xx_hash_md5.o
  .debug_ranges  0x00000000       0x18 ..\obj\stm32f4xx_hash_md5.o
- .debug_line    0x00000000      0x345 ..\obj\stm32f4xx_hash_md5.o
- .debug_str     0x00000000      0x309 ..\obj\stm32f4xx_hash_md5.o
+ .debug_line    0x00000000      0x301 ..\obj\stm32f4xx_hash_md5.o
+ .debug_str     0x00000000      0x2f8 ..\obj\stm32f4xx_hash_md5.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_hash_md5.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_hash_md5.o
@@ -970,8 +970,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa0 ..\obj\stm32f4xx_dac.o
  .debug_ranges  0x00000000       0x90 ..\obj\stm32f4xx_dac.o
- .debug_line    0x00000000      0x337 ..\obj\stm32f4xx_dac.o
- .debug_str     0x00000000      0x46a ..\obj\stm32f4xx_dac.o
+ .debug_line    0x00000000      0x2f3 ..\obj\stm32f4xx_dac.o
+ .debug_str     0x00000000      0x459 ..\obj\stm32f4xx_dac.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_dac.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_dac.o
@@ -1018,8 +1018,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa8 ..\obj\MQTTPacket.o
  .debug_ranges  0x00000000       0x98 ..\obj\MQTTPacket.o
- .debug_line    0x00000000      0x278 ..\obj\MQTTPacket.o
- .debug_str     0x00000000      0x3df ..\obj\MQTTPacket.o
+ .debug_line    0x00000000      0x256 ..\obj\MQTTPacket.o
+ .debug_str     0x00000000      0x3bd ..\obj\MQTTPacket.o
  .comment       0x00000000       0x71 ..\obj\MQTTPacket.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTPacket.o
@@ -1107,8 +1107,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 ..\obj\MQTTSubscribeClient.o
  .debug_ranges  0x00000000       0x20 ..\obj\MQTTSubscribeClient.o
- .debug_line    0x00000000      0x122 ..\obj\MQTTSubscribeClient.o
- .debug_str     0x00000000      0x382 ..\obj\MQTTSubscribeClient.o
+ .debug_line    0x00000000      0x100 ..\obj\MQTTSubscribeClient.o
+ .debug_str     0x00000000      0x360 ..\obj\MQTTSubscribeClient.o
  .comment       0x00000000       0x71 ..\obj\MQTTSubscribeClient.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTSubscribeClient.o
@@ -1140,8 +1140,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 ..\obj\stm32f4xx_crc.o
  .debug_ranges  0x00000000       0x38 ..\obj\stm32f4xx_crc.o
- .debug_line    0x00000000      0x207 ..\obj\stm32f4xx_crc.o
- .debug_str     0x00000000      0x262 ..\obj\stm32f4xx_crc.o
+ .debug_line    0x00000000      0x1d4 ..\obj\stm32f4xx_crc.o
+ .debug_str     0x00000000      0x251 ..\obj\stm32f4xx_crc.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_crc.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_crc.o
@@ -1187,8 +1187,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa0 ..\obj\MQTTClient.o
  .debug_ranges  0x00000000       0x90 ..\obj\MQTTClient.o
- .debug_line    0x00000000      0x4f7 ..\obj\MQTTClient.o
- .debug_str     0x00000000      0x70f ..\obj\MQTTClient.o
+ .debug_line    0x00000000      0x4c4 ..\obj\MQTTClient.o
+ .debug_str     0x00000000      0x6ed ..\obj\MQTTClient.o
  .comment       0x00000000       0x71 ..\obj\MQTTClient.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTClient.o
@@ -1213,8 +1213,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 ..\obj\stm32f4xx_iwdg.o
  .debug_ranges  0x00000000       0x38 ..\obj\stm32f4xx_iwdg.o
- .debug_line    0x00000000      0x1fa ..\obj\stm32f4xx_iwdg.o
- .debug_str     0x00000000      0x283 ..\obj\stm32f4xx_iwdg.o
+ .debug_line    0x00000000      0x1c7 ..\obj\stm32f4xx_iwdg.o
+ .debug_str     0x00000000      0x272 ..\obj\stm32f4xx_iwdg.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_iwdg.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_iwdg.o
@@ -1257,8 +1257,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x90 ..\obj\mpu9250_math.o
  .debug_ranges  0x00000000       0x80 ..\obj\mpu9250_math.o
- .debug_line    0x00000000      0x32e ..\obj\mpu9250_math.o
- .debug_str     0x00000000      0x4b0 ..\obj\mpu9250_math.o
+ .debug_line    0x00000000      0x30c ..\obj\mpu9250_math.o
+ .debug_str     0x00000000      0x48e ..\obj\mpu9250_math.o
  .comment       0x00000000       0x71 ..\obj\mpu9250_math.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\mpu9250_math.o
@@ -1390,8 +1390,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x78 ..\obj\client_ntp.o
  .debug_ranges  0x00000000       0x68 ..\obj\client_ntp.o
- .debug_line    0x00000000      0x380 ..\obj\client_ntp.o
- .debug_str     0x00000000      0x5bf ..\obj\client_ntp.o
+ .debug_line    0x00000000      0x31a ..\obj\client_ntp.o
+ .debug_str     0x00000000      0x59d ..\obj\client_ntp.o
  .comment       0x00000000       0x71 ..\obj\client_ntp.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\client_ntp.o
@@ -1409,8 +1409,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\flowcont.o
  .debug_ranges  0x00000000       0x18 ..\obj\flowcont.o
- .debug_line    0x00000000      0x218 ..\obj\flowcont.o
- .debug_str     0x00000000      0x534 ..\obj\flowcont.o
+ .debug_line    0x00000000      0x1e5 ..\obj\flowcont.o
+ .debug_str     0x00000000      0x512 ..\obj\flowcont.o
  .comment       0x00000000       0x71 ..\obj\flowcont.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\flowcont.o
@@ -1500,8 +1500,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 ..\obj\MQTTConnectClient.o
  .debug_ranges  0x00000000       0x38 ..\obj\MQTTConnectClient.o
- .debug_line    0x00000000      0x17b ..\obj\MQTTConnectClient.o
- .debug_str     0x00000000      0x4a5 ..\obj\MQTTConnectClient.o
+ .debug_line    0x00000000      0x159 ..\obj\MQTTConnectClient.o
+ .debug_str     0x00000000      0x483 ..\obj\MQTTConnectClient.o
  .comment       0x00000000       0x71 ..\obj\MQTTConnectClient.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTConnectClient.o
@@ -1526,8 +1526,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\MQTTDeserializePublish.o
  .debug_ranges  0x00000000       0x18 ..\obj\MQTTDeserializePublish.o
- .debug_line    0x00000000       0xe8 ..\obj\MQTTDeserializePublish.o
- .debug_str     0x00000000      0x305 ..\obj\MQTTDeserializePublish.o
+ .debug_line    0x00000000       0xc6 ..\obj\MQTTDeserializePublish.o
+ .debug_str     0x00000000      0x2e3 ..\obj\MQTTDeserializePublish.o
  .comment       0x00000000       0x71 ..\obj\MQTTDeserializePublish.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTDeserializePublish.o
@@ -1579,8 +1579,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xb0 ..\obj\wlan.o
  .debug_ranges  0x00000000       0xa0 ..\obj\wlan.o
- .debug_line    0x00000000      0x4c4 ..\obj\wlan.o
- .debug_str     0x00000000     0x10bd ..\obj\wlan.o
+ .debug_line    0x00000000      0x491 ..\obj\wlan.o
+ .debug_str     0x00000000     0x109b ..\obj\wlan.o
  .comment       0x00000000       0x71 ..\obj\wlan.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\wlan.o
@@ -1627,8 +1627,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x90 ..\obj\stm32f4xx_dcmi.o
  .debug_ranges  0x00000000       0x80 ..\obj\stm32f4xx_dcmi.o
- .debug_line    0x00000000      0x31e ..\obj\stm32f4xx_dcmi.o
- .debug_str     0x00000000      0x4f0 ..\obj\stm32f4xx_dcmi.o
+ .debug_line    0x00000000      0x2da ..\obj\stm32f4xx_dcmi.o
+ .debug_str     0x00000000      0x4df ..\obj\stm32f4xx_dcmi.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_dcmi.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_dcmi.o
@@ -1660,8 +1660,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 ..\obj\MQTTUnsubscribeClient.o
  .debug_ranges  0x00000000       0x20 ..\obj\MQTTUnsubscribeClient.o
- .debug_line    0x00000000      0x109 ..\obj\MQTTUnsubscribeClient.o
- .debug_str     0x00000000      0x351 ..\obj\MQTTUnsubscribeClient.o
+ .debug_line    0x00000000       0xe7 ..\obj\MQTTUnsubscribeClient.o
+ .debug_str     0x00000000      0x32f ..\obj\MQTTUnsubscribeClient.o
  .comment       0x00000000       0x71 ..\obj\MQTTUnsubscribeClient.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTUnsubscribeClient.o
@@ -1684,8 +1684,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x40 ..\obj\mm.o
  .debug_ranges  0x00000000       0x30 ..\obj\mm.o
- .debug_line    0x00000000      0x142 ..\obj\mm.o
- .debug_str     0x00000000      0x253 ..\obj\mm.o
+ .debug_line    0x00000000      0x131 ..\obj\mm.o
+ .debug_str     0x00000000      0x242 ..\obj\mm.o
  .comment       0x00000000       0x71 ..\obj\mm.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\mm.o
@@ -1793,8 +1793,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\stm32f4xx_cryp_des.o
  .debug_ranges  0x00000000       0x18 ..\obj\stm32f4xx_cryp_des.o
- .debug_line    0x00000000      0x2db ..\obj\stm32f4xx_cryp_des.o
- .debug_str     0x00000000      0x3e9 ..\obj\stm32f4xx_cryp_des.o
+ .debug_line    0x00000000      0x297 ..\obj\stm32f4xx_cryp_des.o
+ .debug_str     0x00000000      0x3d8 ..\obj\stm32f4xx_cryp_des.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_cryp_des.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_cryp_des.o
@@ -1828,8 +1828,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x68 ..\obj\client_ftp.o
  .debug_ranges  0x00000000       0x58 ..\obj\client_ftp.o
- .debug_line    0x00000000      0x434 ..\obj\client_ftp.o
- .debug_str     0x00000000      0x6fb ..\obj\client_ftp.o
+ .debug_line    0x00000000      0x3df ..\obj\client_ftp.o
+ .debug_str     0x00000000      0x6d9 ..\obj\client_ftp.o
  .comment       0x00000000       0x71 ..\obj\client_ftp.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\client_ftp.o
@@ -1889,8 +1889,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa0 ..\obj\stm32f4xx_cryp.o
  .debug_ranges  0x00000000       0x90 ..\obj\stm32f4xx_cryp.o
- .debug_line    0x00000000      0x373 ..\obj\stm32f4xx_cryp.o
- .debug_str     0x00000000      0x5d4 ..\obj\stm32f4xx_cryp.o
+ .debug_line    0x00000000      0x32f ..\obj\stm32f4xx_cryp.o
+ .debug_str     0x00000000      0x5c3 ..\obj\stm32f4xx_cryp.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_cryp.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_cryp.o
@@ -1941,8 +1941,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xb0 ..\obj\stm32f4xx_fsmc.o
  .debug_ranges  0x00000000       0xa0 ..\obj\stm32f4xx_fsmc.o
- .debug_line    0x00000000      0x433 ..\obj\stm32f4xx_fsmc.o
- .debug_str     0x00000000      0x7a1 ..\obj\stm32f4xx_fsmc.o
+ .debug_line    0x00000000      0x3ef ..\obj\stm32f4xx_fsmc.o
+ .debug_str     0x00000000      0x790 ..\obj\stm32f4xx_fsmc.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_fsmc.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_fsmc.o
@@ -1960,8 +1960,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\netcfg.o
  .debug_ranges  0x00000000       0x18 ..\obj\netcfg.o
- .debug_line    0x00000000      0x213 ..\obj\netcfg.o
- .debug_str     0x00000000      0x432 ..\obj\netcfg.o
+ .debug_line    0x00000000      0x1e0 ..\obj\netcfg.o
+ .debug_str     0x00000000      0x410 ..\obj\netcfg.o
  .comment       0x00000000       0x71 ..\obj\netcfg.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\netcfg.o
@@ -1985,8 +1985,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x4b ..\obj\spawn.o
  .debug_aranges
                 0x00000000       0x18 ..\obj\spawn.o
- .debug_line    0x00000000      0x113 ..\obj\spawn.o
- .debug_str     0x00000000      0x1c3 ..\obj\spawn.o
+ .debug_line    0x00000000      0x102 ..\obj\spawn.o
+ .debug_str     0x00000000      0x1a1 ..\obj\spawn.o
  .comment       0x00000000       0x71 ..\obj\spawn.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\spawn.o
@@ -2019,8 +2019,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x68 ..\obj\MQTTFormat.o
  .debug_ranges  0x00000000       0x58 ..\obj\MQTTFormat.o
- .debug_line    0x00000000      0x1c4 ..\obj\MQTTFormat.o
- .debug_str     0x00000000      0x4d8 ..\obj\MQTTFormat.o
+ .debug_line    0x00000000      0x1a2 ..\obj\MQTTFormat.o
+ .debug_str     0x00000000      0x4b6 ..\obj\MQTTFormat.o
  .comment       0x00000000       0x71 ..\obj\MQTTFormat.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTFormat.o
@@ -2120,8 +2120,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000      0x108 ..\obj\stm32f4xx_flash.o
  .debug_ranges  0x00000000       0xf8 ..\obj\stm32f4xx_flash.o
- .debug_line    0x00000000      0x46a ..\obj\stm32f4xx_flash.o
- .debug_str     0x00000000      0x5a9 ..\obj\stm32f4xx_flash.o
+ .debug_line    0x00000000      0x426 ..\obj\stm32f4xx_flash.o
+ .debug_str     0x00000000      0x598 ..\obj\stm32f4xx_flash.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_flash.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_flash.o
@@ -2166,8 +2166,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 ..\obj\MQTTSerializePublish.o
  .debug_ranges  0x00000000       0x38 ..\obj\MQTTSerializePublish.o
- .debug_line    0x00000000      0x127 ..\obj\MQTTSerializePublish.o
- .debug_str     0x00000000      0x39f ..\obj\MQTTSerializePublish.o
+ .debug_line    0x00000000      0x105 ..\obj\MQTTSerializePublish.o
+ .debug_str     0x00000000      0x37d ..\obj\MQTTSerializePublish.o
  .comment       0x00000000       0x71 ..\obj\MQTTSerializePublish.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTSerializePublish.o
@@ -2278,8 +2278,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 ..\obj\mutex.o
  .debug_ranges  0x00000000       0x28 ..\obj\mutex.o
- .debug_line    0x00000000      0x157 ..\obj\mutex.o
- .debug_str     0x00000000      0x34e ..\obj\mutex.o
+ .debug_line    0x00000000      0x146 ..\obj\mutex.o
+ .debug_str     0x00000000      0x33d ..\obj\mutex.o
  .comment       0x00000000       0x71 ..\obj\mutex.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\mutex.o
@@ -2368,8 +2368,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x30 ..\obj\MQTTConnectServer.o
  .debug_ranges  0x00000000       0x20 ..\obj\MQTTConnectServer.o
- .debug_line    0x00000000      0x155 ..\obj\MQTTConnectServer.o
- .debug_str     0x00000000      0x466 ..\obj\MQTTConnectServer.o
+ .debug_line    0x00000000      0x133 ..\obj\MQTTConnectServer.o
+ .debug_str     0x00000000      0x444 ..\obj\MQTTConnectServer.o
  .comment       0x00000000       0x71 ..\obj\MQTTConnectServer.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTConnectServer.o
@@ -2482,8 +2482,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x58 ..\obj\stm32f4xx_rng.o
  .debug_ranges  0x00000000       0x48 ..\obj\stm32f4xx_rng.o
- .debug_line    0x00000000      0x226 ..\obj\stm32f4xx_rng.o
- .debug_str     0x00000000      0x290 ..\obj\stm32f4xx_rng.o
+ .debug_line    0x00000000      0x1f3 ..\obj\stm32f4xx_rng.o
+ .debug_str     0x00000000      0x27f ..\obj\stm32f4xx_rng.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_rng.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_rng.o
@@ -2511,8 +2511,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\MQTTUnsubscribeServer.o
  .debug_ranges  0x00000000       0x18 ..\obj\MQTTUnsubscribeServer.o
- .debug_line    0x00000000       0xe1 ..\obj\MQTTUnsubscribeServer.o
- .debug_str     0x00000000      0x348 ..\obj\MQTTUnsubscribeServer.o
+ .debug_line    0x00000000       0xbf ..\obj\MQTTUnsubscribeServer.o
+ .debug_str     0x00000000      0x326 ..\obj\MQTTUnsubscribeServer.o
  .comment       0x00000000       0x71 ..\obj\MQTTUnsubscribeServer.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTUnsubscribeServer.o
@@ -2693,8 +2693,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\stm32f4xx_cryp_tdes.o
  .debug_ranges  0x00000000       0x18 ..\obj\stm32f4xx_cryp_tdes.o
- .debug_line    0x00000000      0x354 ..\obj\stm32f4xx_cryp_tdes.o
- .debug_str     0x00000000      0x3ef ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_line    0x00000000      0x310 ..\obj\stm32f4xx_cryp_tdes.o
+ .debug_str     0x00000000      0x3de ..\obj\stm32f4xx_cryp_tdes.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_cryp_tdes.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_cryp_tdes.o
@@ -2889,8 +2889,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x40 ..\obj\stm32f4xx_dbgmcu.o
  .debug_ranges  0x00000000       0x30 ..\obj\stm32f4xx_dbgmcu.o
- .debug_line    0x00000000      0x1ea ..\obj\stm32f4xx_dbgmcu.o
- .debug_str     0x00000000      0x257 ..\obj\stm32f4xx_dbgmcu.o
+ .debug_line    0x00000000      0x1b7 ..\obj\stm32f4xx_dbgmcu.o
+ .debug_str     0x00000000      0x246 ..\obj\stm32f4xx_dbgmcu.o
  .comment       0x00000000       0x71 ..\obj\stm32f4xx_dbgmcu.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\stm32f4xx_dbgmcu.o
@@ -2916,8 +2916,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 ..\obj\MQTTSubscribeServer.o
  .debug_ranges  0x00000000       0x18 ..\obj\MQTTSubscribeServer.o
- .debug_line    0x00000000       0xf8 ..\obj\MQTTSubscribeServer.o
- .debug_str     0x00000000      0x35c ..\obj\MQTTSubscribeServer.o
+ .debug_line    0x00000000       0xd6 ..\obj\MQTTSubscribeServer.o
+ .debug_str     0x00000000      0x33a ..\obj\MQTTSubscribeServer.o
  .comment       0x00000000       0x71 ..\obj\MQTTSubscribeServer.o
  .ARM.attributes
                 0x00000000       0x39 ..\obj\MQTTSubscribeServer.o
@@ -5963,213 +5963,213 @@ OUTPUT(STM32F415RG.elf elf32-littlearm)
  .debug_ranges  0x000023d0       0x28 ..\obj\nonos.o
  .debug_ranges  0x000023f8       0x40 ..\obj\usart.o
 
-.debug_line     0x00000000     0xfa6f
- .debug_line    0x00000000      0x561 ..\obj\socket.o
- .debug_line    0x00000561      0x2e5 ..\obj\dw1000_io.o
- .debug_line    0x00000846      0x202 ..\obj\stm32f4xx_syscfg.o
- .debug_line    0x00000a48      0x387 ..\obj\i2c.o
- .debug_line    0x00000dcf      0x493 ..\obj\netapp.o
- .debug_line    0x00001262      0x11a ..\obj\core.o
- .debug_line    0x0000137c      0x707 ..\obj\MQTT.o
- .debug_line    0x00001a83      0x516 ..\obj\interrupts.o
- .debug_line    0x00001f99      0x1e9 ..\obj\timer.o
- .debug_line    0x00002182      0x856 ..\obj\driver.o
- .debug_line    0x000029d8      0x481 ..\obj\stm32f4xx_usart.o
- .debug_line    0x00002e59      0x2a0 ..\obj\stm32f4xx_pwr.o
- .debug_line    0x000030f9      0x55f ..\obj\rtc.o
- .debug_line    0x00003658      0x599 ..\obj\dw1000_driver.o
- .debug_line    0x00003bf1      0x610 ..\obj\CC3100.o
- .debug_line    0x00004201      0x1d3 ..\obj\led.o
- .debug_line    0x000043d4      0x225 ..\obj\stm32f4xx_wwdg.o
- .debug_line    0x000045f9      0x70e ..\obj\dw1000_config.o
- .debug_line    0x00004d07      0x379 ..\obj\fs.o
- .debug_line    0x00005080      0x2d2 ..\obj\task.o
- .debug_line    0x00005352      0x5cb ..\obj\diskio.o
- .debug_line    0x0000591d       0x96 ..\obj\startup_stm32f4xx.o
- .debug_line    0x000059b3       0xc3 ..\obj\serviceReq.o
- .debug_line    0x00005a76      0x158 ..\obj\aufgabe.o
- .debug_line    0x00005bce      0x152 ..\obj\main.o
- .debug_line    0x00005d20      0x579 ..\obj\stm32f4xx_rcc.o
- .debug_line    0x00006299      0x2a3 ..\obj\SDCARD.o
- .debug_line    0x0000653c      0x38a ..\obj\mpu9250_serial.o
- .debug_line    0x000068c6      0x21a ..\obj\init.o
- .debug_line    0x00006ae0      0x531 ..\obj\stm32f4xx_adc.o
- .debug_line    0x00007011      0x45c ..\obj\dw1000_user.o
- .debug_line    0x0000746d      0x255 ..\obj\power.o
- .debug_line    0x000076c2      0x12e ..\obj\mbox.o
- .debug_line    0x000077f0      0x425 ..\obj\CC3100_HttpServer.o
- .debug_line    0x00007c15      0x619 ..\obj\test.o
- .debug_line    0x0000822e      0x612 ..\obj\CC3100_Board.o
- .debug_line    0x00008840      0x1c5 ..\obj\time.o
- .debug_line    0x00008a05      0x1ae ..\obj\event.o
- .debug_line    0x00008bb3      0x31e ..\obj\stm32f4xx_gpio.o
- .debug_line    0x00008ed1      0x372 ..\obj\device.o
- .debug_line    0x00009243      0x2a6 ..\obj\CC3100_EventHandler.o
- .debug_line    0x000094e9      0x1ea ..\obj\system_stm32f4xx.o
- .debug_line    0x000096d3      0x16e ..\obj\syscalls.o
- .debug_line    0x00009841      0x3bb ..\obj\stm32f4xx_dma.o
- .debug_line    0x00009bfc      0x598 ..\obj\mpu9250_driver.o
- .debug_line    0x0000a194       0xf5 ..\obj\ccsbcs.o
- .debug_line    0x0000a289      0x171 ..\obj\queue.o
- .debug_line    0x0000a3fa      0x112 ..\obj\port.o
- .debug_line    0x0000a50c      0x257 ..\obj\flag.o
- .debug_line    0x0000a763      0x342 ..\obj\BME280.o
- .debug_line    0x0000aaa5     0x12ff ..\obj\ff.o
- .debug_line    0x0000bda4      0x26c ..\obj\taster.o
- .debug_line    0x0000c010      0x431 ..\obj\stm32f4xx_spi.o
- .debug_line    0x0000c441      0x4ba ..\obj\stm32f4xx_i2c.o
- .debug_line    0x0000c8fb       0xde ..\obj\arch.o
- .debug_line    0x0000c9d9      0x284 ..\obj\stm32f4xx_exti.o
- .debug_line    0x0000cc5d      0x224 ..\obj\misc.o
- .debug_line    0x0000ce81      0x2c1 ..\obj\beeper.o
- .debug_line    0x0000d142      0x592 ..\obj\dw1000_ranging.o
- .debug_line    0x0000d6d4      0x2eb ..\obj\DW1000.o
- .debug_line    0x0000d9bf      0x129 ..\obj\sem.o
- .debug_line    0x0000dae8      0x7ec ..\obj\stm32f4xx_rtc.o
- .debug_line    0x0000e2d4      0x6bc ..\obj\bme280_driver.o
- .debug_line    0x0000e990       0x5b ..\obj\dw1000_def.o
- .debug_line    0x0000e9eb       0x81 ..\obj\hook.o
- .debug_line    0x0000ea6c      0xa44 ..\obj\stm32f4xx_tim.o
- .debug_line    0x0000f4b0      0x25d ..\obj\nonos.o
- .debug_line    0x0000f70d      0x362 ..\obj\usart.o
+.debug_line     0x00000000     0xece3
+ .debug_line    0x00000000      0x52e ..\obj\socket.o
+ .debug_line    0x0000052e      0x2d4 ..\obj\dw1000_io.o
+ .debug_line    0x00000802      0x1cf ..\obj\stm32f4xx_syscfg.o
+ .debug_line    0x000009d1      0x343 ..\obj\i2c.o
+ .debug_line    0x00000d14      0x460 ..\obj\netapp.o
+ .debug_line    0x00001174      0x109 ..\obj\core.o
+ .debug_line    0x0000127d      0x67f ..\obj\MQTT.o
+ .debug_line    0x000018fc      0x49f ..\obj\interrupts.o
+ .debug_line    0x00001d9b      0x1d8 ..\obj\timer.o
+ .debug_line    0x00001f73      0x823 ..\obj\driver.o
+ .debug_line    0x00002796      0x43d ..\obj\stm32f4xx_usart.o
+ .debug_line    0x00002bd3      0x26d ..\obj\stm32f4xx_pwr.o
+ .debug_line    0x00002e40      0x51b ..\obj\rtc.o
+ .debug_line    0x0000335b      0x588 ..\obj\dw1000_driver.o
+ .debug_line    0x000038e3      0x5cc ..\obj\CC3100.o
+ .debug_line    0x00003eaf      0x18f ..\obj\led.o
+ .debug_line    0x0000403e      0x1f2 ..\obj\stm32f4xx_wwdg.o
+ .debug_line    0x00004230      0x6fd ..\obj\dw1000_config.o
+ .debug_line    0x0000492d      0x346 ..\obj\fs.o
+ .debug_line    0x00004c73      0x2b0 ..\obj\task.o
+ .debug_line    0x00004f23      0x587 ..\obj\diskio.o
+ .debug_line    0x000054aa       0x85 ..\obj\startup_stm32f4xx.o
+ .debug_line    0x0000552f       0xb2 ..\obj\serviceReq.o
+ .debug_line    0x000055e1      0x136 ..\obj\aufgabe.o
+ .debug_line    0x00005717      0x130 ..\obj\main.o
+ .debug_line    0x00005847      0x535 ..\obj\stm32f4xx_rcc.o
+ .debug_line    0x00005d7c      0x270 ..\obj\SDCARD.o
+ .debug_line    0x00005fec      0x346 ..\obj\mpu9250_serial.o
+ .debug_line    0x00006332      0x1e7 ..\obj\init.o
+ .debug_line    0x00006519      0x4ed ..\obj\stm32f4xx_adc.o
+ .debug_line    0x00006a06      0x418 ..\obj\dw1000_user.o
+ .debug_line    0x00006e1e      0x211 ..\obj\power.o
+ .debug_line    0x0000702f      0x11d ..\obj\mbox.o
+ .debug_line    0x0000714c      0x3bf ..\obj\CC3100_HttpServer.o
+ .debug_line    0x0000750b      0x5b3 ..\obj\test.o
+ .debug_line    0x00007abe      0x5ce ..\obj\CC3100_Board.o
+ .debug_line    0x0000808c      0x1a3 ..\obj\time.o
+ .debug_line    0x0000822f      0x19d ..\obj\event.o
+ .debug_line    0x000083cc      0x2da ..\obj\stm32f4xx_gpio.o
+ .debug_line    0x000086a6      0x32e ..\obj\device.o
+ .debug_line    0x000089d4      0x273 ..\obj\CC3100_EventHandler.o
+ .debug_line    0x00008c47      0x1c8 ..\obj\system_stm32f4xx.o
+ .debug_line    0x00008e0f      0x15d ..\obj\syscalls.o
+ .debug_line    0x00008f6c      0x377 ..\obj\stm32f4xx_dma.o
+ .debug_line    0x000092e3      0x565 ..\obj\mpu9250_driver.o
+ .debug_line    0x00009848       0xd3 ..\obj\ccsbcs.o
+ .debug_line    0x0000991b      0x160 ..\obj\queue.o
+ .debug_line    0x00009a7b       0xf0 ..\obj\port.o
+ .debug_line    0x00009b6b      0x246 ..\obj\flag.o
+ .debug_line    0x00009db1      0x2fe ..\obj\BME280.o
+ .debug_line    0x0000a0af     0x12dd ..\obj\ff.o
+ .debug_line    0x0000b38c      0x228 ..\obj\taster.o
+ .debug_line    0x0000b5b4      0x3ed ..\obj\stm32f4xx_spi.o
+ .debug_line    0x0000b9a1      0x476 ..\obj\stm32f4xx_i2c.o
+ .debug_line    0x0000be17       0xbc ..\obj\arch.o
+ .debug_line    0x0000bed3      0x240 ..\obj\stm32f4xx_exti.o
+ .debug_line    0x0000c113      0x1e0 ..\obj\misc.o
+ .debug_line    0x0000c2f3      0x27d ..\obj\beeper.o
+ .debug_line    0x0000c570      0x54e ..\obj\dw1000_ranging.o
+ .debug_line    0x0000cabe      0x2b8 ..\obj\DW1000.o
+ .debug_line    0x0000cd76      0x118 ..\obj\sem.o
+ .debug_line    0x0000ce8e      0x7a8 ..\obj\stm32f4xx_rtc.o
+ .debug_line    0x0000d636      0x6ab ..\obj\bme280_driver.o
+ .debug_line    0x0000dce1       0x4a ..\obj\dw1000_def.o
+ .debug_line    0x0000dd2b       0x70 ..\obj\hook.o
+ .debug_line    0x0000dd9b      0xa00 ..\obj\stm32f4xx_tim.o
+ .debug_line    0x0000e79b      0x22a ..\obj\nonos.o
+ .debug_line    0x0000e9c5      0x31e ..\obj\usart.o
 
-.debug_str      0x00000000     0xcd92
- .debug_str     0x00000000      0xc9e ..\obj\socket.o
-                                0xd78 (size before relaxing)
- .debug_str     0x00000c9e      0x2c7 ..\obj\dw1000_io.o
-                                0x42f (size before relaxing)
- .debug_str     0x00000f65      0x197 ..\obj\stm32f4xx_syscfg.o
-                                0x30b (size before relaxing)
- .debug_str     0x000010fc      0x358 ..\obj\i2c.o
-                                0x550 (size before relaxing)
- .debug_str     0x00001454      0xac4 ..\obj\netapp.o
-                               0x1238 (size before relaxing)
- .debug_str     0x00001f18      0x17b ..\obj\core.o
-                                0x29e (size before relaxing)
- .debug_str     0x00002093      0x5f8 ..\obj\MQTT.o
-                                0x974 (size before relaxing)
- .debug_str     0x0000268b      0x55c ..\obj\interrupts.o
-                                0x7e3 (size before relaxing)
- .debug_str     0x00002be7      0x143 ..\obj\timer.o
-                                0x28c (size before relaxing)
- .debug_str     0x00002d2a      0x525 ..\obj\driver.o
-                                0xc6d (size before relaxing)
- .debug_str     0x0000324f      0x471 ..\obj\stm32f4xx_usart.o
+.debug_str      0x00000000     0xc8fd
+ .debug_str     0x00000000      0xc7c ..\obj\socket.o
+                                0xd56 (size before relaxing)
+ .debug_str     0x00000c7c      0x2b6 ..\obj\dw1000_io.o
+                                0x41e (size before relaxing)
+ .debug_str     0x00000f32      0x186 ..\obj\stm32f4xx_syscfg.o
+                                0x2fa (size before relaxing)
+ .debug_str     0x000010b8      0x347 ..\obj\i2c.o
+                                0x52e (size before relaxing)
+ .debug_str     0x000013ff      0xab3 ..\obj\netapp.o
+                               0x1216 (size before relaxing)
+ .debug_str     0x00001eb2      0x16a ..\obj\core.o
+                                0x28d (size before relaxing)
+ .debug_str     0x0000201c      0x5e7 ..\obj\MQTT.o
+                                0x952 (size before relaxing)
+ .debug_str     0x00002603      0x54b ..\obj\interrupts.o
+                                0x7c1 (size before relaxing)
+ .debug_str     0x00002b4e      0x132 ..\obj\timer.o
+                                0x27b (size before relaxing)
+ .debug_str     0x00002c80      0x514 ..\obj\driver.o
+                                0xc4b (size before relaxing)
+ .debug_str     0x00003194      0x460 ..\obj\stm32f4xx_usart.o
+                                0x695 (size before relaxing)
+ .debug_str     0x000035f4      0x16a ..\obj\stm32f4xx_pwr.o
+                                0x397 (size before relaxing)
+ .debug_str     0x0000375e      0xa70 ..\obj\rtc.o
+                                0xd07 (size before relaxing)
+ .debug_str     0x000041ce      0x624 ..\obj\dw1000_driver.o
+                                0x803 (size before relaxing)
+ .debug_str     0x000047f2      0x726 ..\obj\CC3100.o
+                                0xbf5 (size before relaxing)
+ .debug_str     0x00004f18       0x24 ..\obj\led.o
+                                0x33e (size before relaxing)
+ .debug_str     0x00004f3c       0xc7 ..\obj\stm32f4xx_wwdg.o
+                                0x27d (size before relaxing)
+ .debug_str     0x00005003      0x4ff ..\obj\dw1000_config.o
+                                0x77b (size before relaxing)
+ .debug_str     0x00005502      0x37d ..\obj\fs.o
+                                0x6a5 (size before relaxing)
+ .debug_str     0x0000587f      0x1f8 ..\obj\task.o
+                                0x42c (size before relaxing)
+ .debug_str     0x00005a77      0x23d ..\obj\diskio.o
+                                0x686 (size before relaxing)
+ .debug_str     0x00005cb4       0x93 ..\obj\startup_stm32f4xx.o
+                                0x14d (size before relaxing)
+ .debug_str     0x00005d47       0x7e ..\obj\serviceReq.o
+                                0x1b3 (size before relaxing)
+ .debug_str     0x00005dc5       0x25 ..\obj\aufgabe.o
+                                0x1af (size before relaxing)
+ .debug_str     0x00005dea       0x12 ..\obj\main.o
+                                0x1a1 (size before relaxing)
+ .debug_str     0x00005dfc      0x5c0 ..\obj\stm32f4xx_rcc.o
+                                0x856 (size before relaxing)
+ .debug_str     0x000063bc      0x36d ..\obj\SDCARD.o
+                                0x58b (size before relaxing)
+ .debug_str     0x00006729      0x12f ..\obj\mpu9250_serial.o
                                 0x6a6 (size before relaxing)
- .debug_str     0x000036c0      0x17b ..\obj\stm32f4xx_pwr.o
-                                0x3a8 (size before relaxing)
- .debug_str     0x0000383b      0xa81 ..\obj\rtc.o
-                                0xd29 (size before relaxing)
- .debug_str     0x000042bc      0x635 ..\obj\dw1000_driver.o
-                                0x825 (size before relaxing)
- .debug_str     0x000048f1      0x737 ..\obj\CC3100.o
-                                0xc17 (size before relaxing)
- .debug_str     0x00005028       0x35 ..\obj\led.o
-                                0x34f (size before relaxing)
- .debug_str     0x0000505d       0xd8 ..\obj\stm32f4xx_wwdg.o
-                                0x28e (size before relaxing)
- .debug_str     0x00005135      0x510 ..\obj\dw1000_config.o
-                                0x78c (size before relaxing)
- .debug_str     0x00005645      0x38e ..\obj\fs.o
-                                0x6c7 (size before relaxing)
- .debug_str     0x000059d3      0x209 ..\obj\task.o
-                                0x43d (size before relaxing)
- .debug_str     0x00005bdc      0x24e ..\obj\diskio.o
-                                0x6a8 (size before relaxing)
- .debug_str     0x00005e2a       0xa4 ..\obj\startup_stm32f4xx.o
-                                0x15e (size before relaxing)
- .debug_str     0x00005ece       0x8f ..\obj\serviceReq.o
-                                0x1c4 (size before relaxing)
- .debug_str     0x00005f5d       0x36 ..\obj\aufgabe.o
-                                0x1d1 (size before relaxing)
- .debug_str     0x00005f93       0x23 ..\obj\main.o
-                                0x1c3 (size before relaxing)
- .debug_str     0x00005fb6      0x5d1 ..\obj\stm32f4xx_rcc.o
-                                0x867 (size before relaxing)
- .debug_str     0x00006587      0x37e ..\obj\SDCARD.o
-                                0x5ad (size before relaxing)
- .debug_str     0x00006905      0x140 ..\obj\mpu9250_serial.o
-                                0x6c8 (size before relaxing)
- .debug_str     0x00006a45       0xe8 ..\obj\init.o
-                                0x845 (size before relaxing)
- .debug_str     0x00006b2d      0x5d6 ..\obj\stm32f4xx_adc.o
-                                0x81b (size before relaxing)
- .debug_str     0x00007103      0x346 ..\obj\dw1000_user.o
-                                0xe56 (size before relaxing)
- .debug_str     0x00007449       0x8b ..\obj\power.o
-                                0x553 (size before relaxing)
- .debug_str     0x000074d4       0x86 ..\obj\mbox.o
-                                0x2df (size before relaxing)
- .debug_str     0x0000755a      0x257 ..\obj\CC3100_HttpServer.o
-                                0x72f (size before relaxing)
- .debug_str     0x000077b1      0x310 ..\obj\test.o
-                                0xe54 (size before relaxing)
- .debug_str     0x00007ac1      0x369 ..\obj\CC3100_Board.o
-                               0x1069 (size before relaxing)
- .debug_str     0x00007e2a       0xbf ..\obj\time.o
-                                0x2fb (size before relaxing)
- .debug_str     0x00007ee9       0xd9 ..\obj\event.o
-                                0x346 (size before relaxing)
- .debug_str     0x00007fc2      0x17a ..\obj\stm32f4xx_gpio.o
-                                0x4ba (size before relaxing)
- .debug_str     0x0000813c      0x4af ..\obj\device.o
-                                0xb55 (size before relaxing)
- .debug_str     0x000085eb      0x489 ..\obj\CC3100_EventHandler.o
-                                0xa5b (size before relaxing)
- .debug_str     0x00008a74       0x9c ..\obj\system_stm32f4xx.o
-                                0x3c1 (size before relaxing)
- .debug_str     0x00008b10      0x13f ..\obj\syscalls.o
-                                0x2e9 (size before relaxing)
- .debug_str     0x00008c4f      0x224 ..\obj\stm32f4xx_dma.o
-                                0x559 (size before relaxing)
- .debug_str     0x00008e73      0x917 ..\obj\mpu9250_driver.o
-                                0xae9 (size before relaxing)
- .debug_str     0x0000978a       0x63 ..\obj\ccsbcs.o
-                                0x16e (size before relaxing)
- .debug_str     0x000097ed       0xa4 ..\obj\queue.o
-                                0x343 (size before relaxing)
- .debug_str     0x00009891       0xba ..\obj\port.o
-                                0x1de (size before relaxing)
- .debug_str     0x0000994b      0x19f ..\obj\flag.o
-                                0x3bc (size before relaxing)
- .debug_str     0x00009aea      0x20b ..\obj\BME280.o
-                                0x7dd (size before relaxing)
- .debug_str     0x00009cf5      0x310 ..\obj\ff.o
-                                0x740 (size before relaxing)
- .debug_str     0x0000a005       0x85 ..\obj\taster.o
-                                0xa77 (size before relaxing)
- .debug_str     0x0000a08a      0x2e4 ..\obj\stm32f4xx_spi.o
-                                0x6a1 (size before relaxing)
- .debug_str     0x0000a36e      0x32f ..\obj\stm32f4xx_i2c.o
-                                0x67c (size before relaxing)
- .debug_str     0x0000a69d       0x5e ..\obj\arch.o
-                                0x2c3 (size before relaxing)
- .debug_str     0x0000a6fb       0xc7 ..\obj\stm32f4xx_exti.o
-                                0x370 (size before relaxing)
- .debug_str     0x0000a7c2       0xf0 ..\obj\misc.o
-                                0x3e5 (size before relaxing)
- .debug_str     0x0000a8b2      0x1e1 ..\obj\beeper.o
-                                0xc20 (size before relaxing)
- .debug_str     0x0000aa93      0x690 ..\obj\dw1000_ranging.o
-                                0xa7a (size before relaxing)
- .debug_str     0x0000b123      0x135 ..\obj\DW1000.o
-                                0x647 (size before relaxing)
- .debug_str     0x0000b258       0x7e ..\obj\sem.o
-                                0x2e2 (size before relaxing)
- .debug_str     0x0000b2d6      0x842 ..\obj\stm32f4xx_rtc.o
-                                0xb5f (size before relaxing)
- .debug_str     0x0000bb18      0x61c ..\obj\bme280_driver.o
-                                0x923 (size before relaxing)
- .debug_str     0x0000c134       0x4b ..\obj\dw1000_def.o
-                                0x127 (size before relaxing)
- .debug_str     0x0000c17f       0x52 ..\obj\hook.o
-                                0x171 (size before relaxing)
- .debug_str     0x0000c1d1      0x9f2 ..\obj\stm32f4xx_tim.o
-                                0xde7 (size before relaxing)
- .debug_str     0x0000cbc3      0x100 ..\obj\nonos.o
-                                0x5ed (size before relaxing)
- .debug_str     0x0000ccc3       0xcf ..\obj\usart.o
-                                0xbe5 (size before relaxing)
+ .debug_str     0x00006858       0xd7 ..\obj\init.o
+                                0x823 (size before relaxing)
+ .debug_str     0x0000692f      0x5c5 ..\obj\stm32f4xx_adc.o
+                                0x80a (size before relaxing)
+ .debug_str     0x00006ef4      0x335 ..\obj\dw1000_user.o
+                                0xe34 (size before relaxing)
+ .debug_str     0x00007229       0x7a ..\obj\power.o
+                                0x531 (size before relaxing)
+ .debug_str     0x000072a3       0x75 ..\obj\mbox.o
+                                0x2ce (size before relaxing)
+ .debug_str     0x00007318      0x246 ..\obj\CC3100_HttpServer.o
+                                0x70d (size before relaxing)
+ .debug_str     0x0000755e      0x2ff ..\obj\test.o
+                                0xe32 (size before relaxing)
+ .debug_str     0x0000785d      0x358 ..\obj\CC3100_Board.o
+                               0x1047 (size before relaxing)
+ .debug_str     0x00007bb5       0xae ..\obj\time.o
+                                0x2ea (size before relaxing)
+ .debug_str     0x00007c63       0xc8 ..\obj\event.o
+                                0x335 (size before relaxing)
+ .debug_str     0x00007d2b      0x169 ..\obj\stm32f4xx_gpio.o
+                                0x4a9 (size before relaxing)
+ .debug_str     0x00007e94      0x49e ..\obj\device.o
+                                0xb33 (size before relaxing)
+ .debug_str     0x00008332      0x478 ..\obj\CC3100_EventHandler.o
+                                0xa39 (size before relaxing)
+ .debug_str     0x000087aa       0x8b ..\obj\system_stm32f4xx.o
+                                0x3b0 (size before relaxing)
+ .debug_str     0x00008835      0x12e ..\obj\syscalls.o
+                                0x2c7 (size before relaxing)
+ .debug_str     0x00008963      0x213 ..\obj\stm32f4xx_dma.o
+                                0x548 (size before relaxing)
+ .debug_str     0x00008b76      0x906 ..\obj\mpu9250_driver.o
+                                0xac7 (size before relaxing)
+ .debug_str     0x0000947c       0x52 ..\obj\ccsbcs.o
+                                0x15d (size before relaxing)
+ .debug_str     0x000094ce       0x93 ..\obj\queue.o
+                                0x332 (size before relaxing)
+ .debug_str     0x00009561       0xa9 ..\obj\port.o
+                                0x1cd (size before relaxing)
+ .debug_str     0x0000960a      0x18e ..\obj\flag.o
+                                0x3ab (size before relaxing)
+ .debug_str     0x00009798      0x1fa ..\obj\BME280.o
+                                0x7bb (size before relaxing)
+ .debug_str     0x00009992      0x2ff ..\obj\ff.o
+                                0x71e (size before relaxing)
+ .debug_str     0x00009c91       0x74 ..\obj\taster.o
+                                0xa55 (size before relaxing)
+ .debug_str     0x00009d05      0x2d3 ..\obj\stm32f4xx_spi.o
+                                0x690 (size before relaxing)
+ .debug_str     0x00009fd8      0x31e ..\obj\stm32f4xx_i2c.o
+                                0x66b (size before relaxing)
+ .debug_str     0x0000a2f6       0x4d ..\obj\arch.o
+                                0x2b2 (size before relaxing)
+ .debug_str     0x0000a343       0xb6 ..\obj\stm32f4xx_exti.o
+                                0x35f (size before relaxing)
+ .debug_str     0x0000a3f9       0xdf ..\obj\misc.o
+                                0x3d4 (size before relaxing)
+ .debug_str     0x0000a4d8      0x1d0 ..\obj\beeper.o
+                                0xc0f (size before relaxing)
+ .debug_str     0x0000a6a8      0x67f ..\obj\dw1000_ranging.o
+                                0xa58 (size before relaxing)
+ .debug_str     0x0000ad27      0x124 ..\obj\DW1000.o
+                                0x625 (size before relaxing)
+ .debug_str     0x0000ae4b       0x6d ..\obj\sem.o
+                                0x2d1 (size before relaxing)
+ .debug_str     0x0000aeb8      0x831 ..\obj\stm32f4xx_rtc.o
+                                0xb4e (size before relaxing)
+ .debug_str     0x0000b6e9      0x60b ..\obj\bme280_driver.o
+                                0x912 (size before relaxing)
+ .debug_str     0x0000bcf4       0x3a ..\obj\dw1000_def.o
+                                0x116 (size before relaxing)
+ .debug_str     0x0000bd2e       0x41 ..\obj\hook.o
+                                0x160 (size before relaxing)
+ .debug_str     0x0000bd6f      0x9e1 ..\obj\stm32f4xx_tim.o
+                                0xdd6 (size before relaxing)
+ .debug_str     0x0000c750       0xef ..\obj\nonos.o
+                                0x5cb (size before relaxing)
+ .debug_str     0x0000c83f       0xbe ..\obj\usart.o
+                                0xbc3 (size before relaxing)
 
 .comment        0x00000000       0x70
  .comment       0x00000000       0x70 ..\obj\socket.o
