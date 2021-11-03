@@ -37,6 +37,5 @@ int main ( void )
 
     while (1)
     {
-    	//....Code
     }
 }
